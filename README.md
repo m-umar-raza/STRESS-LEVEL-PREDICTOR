@@ -7,18 +7,18 @@ Predict student stress levels (Low 🟢, Medium 🟡, High 🔴) using psycholog
 ---
 
 ## 🔑 Key Features
-- 🧹 **Data Cleaning & Preprocessing**  
-- 📊 **Exploratory Data Analysis (EDA)**  
-- 📉 **Dimensionality Reduction** with PCA  
-- 🤖 **Model Training**:  
-  - Decision Tree 🌳  
-  - Random Forest 🌲  
-  - Support Vector Machine ⚔️  
-  - K-Nearest Neighbors 📍  
-  - Logistic Regression ➗  
-  - Gradient Boosting 🚀  
-- 📈 **Model Evaluation**: Accuracy, Precision, Recall, F1-Score  
-- 💡 **Comparison Dashboard** of all models  
+-  **Data Cleaning & Preprocessing**  
+-  **Exploratory Data Analysis (EDA)**  
+-  **Dimensionality Reduction** with PCA  
+-  **Model Training**:  
+  - Decision Tree 
+  - Random Forest
+  - Support Vector Machine
+  - K-Nearest Neighbors 
+  - Logistic Regression   
+  - Gradient Boosting   
+-  **Model Evaluation**: Accuracy, Precision, Recall, F1-Score  
+-  **Comparison Dashboard** of all models  
 
 ---
 
@@ -89,14 +89,14 @@ STRESS-LEVEL-PREDICTOR/
 
 ## 📊 Results Overview
 
-| Model                  | Accuracy | Precision | Recall | F1 Score |
-|------------------------|:--------:|:---------:|:------:|:--------:|
-| Decision Tree 🌳       |  0.90    |   0.90    |  0.90  |   0.89   |
-| Random Forest 🌲       |  0.89    |   0.88    |  0.89  |   0.87   |
-| Gradient Boosting 🚀   |  0.88    |   0.87    |  0.88  |   0.86   |
-| SVM ⚔️                 |  0.87    |   0.86    |  0.87  |   0.86   |
-| KNN 📍                 |  0.85    |   0.85    |  0.85  |   0.84   |
-| Logistic Regression ➗  |  0.86    |   0.86    |  0.86  |   0.86   |
+| Model                | Accuracy | Precision | Recall | F1 Score |
+|----------------------|:--------:|:---------:|:------:|:--------:|
+| Decision Tree        |  0.90    |   0.90    |  0.90  |   0.89   |
+| Random Forest        |  0.89    |   0.88    |  0.89  |   0.87   |
+| Gradient Boosting    |  0.88    |   0.87    |  0.88  |   0.86   |
+| SVM                  |  0.87    |   0.86    |  0.87  |   0.86   |
+| KNN                  |  0.85    |   0.85    |  0.85  |   0.84   |
+| Logistic Regression  |  0.86    |   0.86    |  0.86  |   0.86   |
 
 > 📌 *Decision Tree delivered the best blend of performance and interpretability.*
 
