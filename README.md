@@ -117,7 +117,7 @@ See [docs/literature_review.md](docs/literature_review.md) for details on:
 ```bash
 git init
 git remote remove origin 2>$null
-git remote add origin https://github.com/akamohid/STRESS-LEVEL-PREDICTOR.git
+git remote add origin https://github.com/m-umar-raza/STRESS-LEVEL-PREDICTOR.git
 git add .
 git commit -m "Initial commit: Full Stress Level Predictor pipeline"
 git branch -M main
