@@ -48,7 +48,7 @@ STRESS-LEVEL-PREDICTOR/
 
 1. **Clone**  
    ```bash
-   git clone https://github.com/akamohid/STRESS-LEVEL-PREDICTOR.git
+   git clone https://github.com/m-umar-raza/STRESS-LEVEL-PREDICTOR.git
    cd STRESS-LEVEL-PREDICTOR
    ```
 
